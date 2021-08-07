@@ -1,4 +1,4 @@
-- 👋 Hi im @veryCruncy-veryCrunchyDev.
+- 👋 Hi im @veryCrunchy-veryCrunchyDev.
 - 🔭 I’m currently working on our business app.
 - 👀 I'm intrested in Programming.
 - 🌱 I’m currently learning JavaScript.

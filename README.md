@@ -1,9 +1,8 @@
 - 👋 Hi im @veryCrunchy-veryCrunchyDev.
-- 🔭 I’m currently working on our business app.
+- 🔭 I’m currently working on my website.
 - 👀 I'm intrested in Programming.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and Node.js.
 - 📫 How to reach me: Email: verycrunchydev@gmail.com, Discord: veryCrunchy#3281.
-- 💬 Ask me about anything.
 - 😄 Pronouns: he/him.
 
 <!--

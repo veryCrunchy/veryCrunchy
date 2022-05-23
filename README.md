@@ -1,5 +1,5 @@
 - 👋 Hi im @veryCrunchy
-- 🔭 I’m currently working on a game (private).
+- 🔭 I’m currently working on a [discord bot](https://verycrunchy.dev/).
 - 👀 I'm intrested in Programming.
 - 🌱 I’m currently learning JavaScript and C#.
 - 📫 How to reach me: Email: verycrunchydev@gmail.com, Discord: veryCrunchy#3281.

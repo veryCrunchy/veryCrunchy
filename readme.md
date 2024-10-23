@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-Total Time: 398 hrs 6 mins
+Total Time: 398 hrs 37 mins
 
-TypeScript                 147 hrs 47 mins █████████▒░░░░░░░░░░░░░░░   37.13 %
-Vue                        95 hrs 14 mins  ██████░░░░░░░░░░░░░░░░░░░   23.93 %
-TSX                        66 hrs 11 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-JSON                       20 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-JavaScript                 19 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TypeScript                 148 hrs 11 mins █████████▒░░░░░░░░░░░░░░░   37.19 %
+Vue                        95 hrs 14 mins  ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+TSX                        66 hrs 11 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+JSON                       20 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JavaScript                 19 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 Bash                       9 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 unknown                    7 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 HTML                       6 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %

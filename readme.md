@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-Total Time: 402 hrs 2 mins
+Total Time: 402 hrs 10 mins
 
-TypeScript                 150 hrs 28 mins █████████▒░░░░░░░░░░░░░░░   37.44 %
-Vue                        95 hrs 16 mins  ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-TSX                        66 hrs 11 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+TypeScript                 150 hrs 36 mins █████████▒░░░░░░░░░░░░░░░   37.46 %
+Vue                        95 hrs 16 mins  ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+TSX                        66 hrs 11 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
 JSON                       21 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 JavaScript                 20 hrs 1 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 Bash                       9 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
